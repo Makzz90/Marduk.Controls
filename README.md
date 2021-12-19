@@ -1,5 +1,5 @@
 # Marduk.Controls
-C# port for Marduk PhotowallView and WaterfallFlowView controls for UWP (original - https://github.com/ProjectMarduk/Marduk.Controls)
+C# port of Marduk PhotowallView and WaterfallFlowView controls for UWP (original - https://github.com/ProjectMarduk/Marduk.Controls)
 
 ![waterfall](https://cloud.githubusercontent.com/assets/9367842/17103352/8064d730-52b0-11e6-865d-bdd07396ed0c.gif)
 
