@@ -1,9 +1,10 @@
 # Marduk.Controls
-C# port for Marduk PhotowallView and WaterfallFlowView controls for UWP
+C# port for Marduk PhotowallView and WaterfallFlowView controls for UWP (original - https://github.com/ProjectMarduk/Marduk.Controls)
 
-(https://github.com/ProjectMarduk/Marduk.Controls)
+![waterfall](https://cloud.githubusercontent.com/assets/9367842/17103352/8064d730-52b0-11e6-865d-bdd07396ed0c.gif)
 
 Example:
+```XAML
 <ScrollViewer>
       <marduc:WaterfallFlowView ItemSource="{Binding Items}" AdaptiveMode="MinBased" MinItemWidth="400" DelayMeasure="True"
                                 Spacing="15">
@@ -16,3 +17,4 @@ Example:
           </marduc:WaterfallFlowView.ItemTemplate>
       </marduc:WaterfallFlowView>
   </ScrollViewer>
+```
